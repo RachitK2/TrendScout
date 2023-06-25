@@ -1,0 +1,22 @@
+.header{
+    padding-top: 6px;
+    width: 100%;
+  cursor: pointer;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  text-transform: uppercase;
+  background-color: #151515;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 5vw;
+  padding-bottom: 6px;
+  box-shadow: 0px 1px 5px rgb(70, 70, 70);
+  color: #ffffff;
+  z-index: 100;
+}
+@media (max-width: 1000px) {
+    .header {
+      padding-top: 6px;
+      font-size: 6.4vw;
+    }
+}
