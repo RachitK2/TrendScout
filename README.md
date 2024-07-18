@@ -15,3 +15,6 @@ The user interface is designed using Material UI components, ensuring a visually
 
 ![trendscoutapp](https://github.com/RachitK2/TrendScout/assets/113817918/bf096fe3-1b8a-41ca-b3bc-164cf4a4c418)
 
+https://github.com/user-attachments/assets/7c75976a-237f-4e42-ab2b-59d973e62bcf
+
+
